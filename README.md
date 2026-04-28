@@ -1,6 +1,5 @@
 # Northwind Business Intelligence: Análisis de Rendimiento Comercial y Dinámicas de Mercado
 
-## Resumen del Proyecto
 El presente repositorio documenta el desarrollo de un entorno analítico interactivo diseñado mediante Microsoft Power BI. El proyecto tiene como objetivo principal la transformación de datos transaccionales de la entidad **Northwind Traders** en conocimiento estratégico. A través de un modelado de datos robusto, se permite una evaluación multidimensional del desempeño corporativo, la penetración de mercados internacionales y las pautas de consumo durante el ciclo fiscal 1996 - 1998.
 
 ## Objetivos Estratégicos
